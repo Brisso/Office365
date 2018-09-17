@@ -14,8 +14,4 @@ Width="1080"
 File size= "300KB"
 File Type= "PNG" "JPG"
 
-
-
-
-
-
+<img src="Office365/Tenant Branding/Samples/O365_Background.jpg"/>
