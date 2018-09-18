@@ -1,20 +1,20 @@
 # SharePoint Online Limitations
 
 #Character Limitations:
-•	Microsoft Word: The total length of the path and the file name, including file name extension, exceeds 259 characters. 
-•	Microsoft PowerPoint: The total length of the path and the file name, including file name extension, exceeds 259 characters. 
-•	Microsoft Access: The total length of the path and the file name, including file name extension exceeds 259 characters. 
-•	Microsoft Excel: The total length of the path and the file name, including file name extension, exceeds 218 characters.
+- Microsoft Word: The total length of the path and the file name, including file name extension, exceeds 259 characters. 
+- Microsoft PowerPoint: The total length of the path and the file name, including file name extension, exceeds 259 characters. 
+- Microsoft Access: The total length of the path and the file name, including file name extension exceeds 259 characters. 
+- Microsoft Excel: The total length of the path and the file name, including file name extension, exceeds 218 characters.
 
 #Illegal Characters:
-•	Refer to Master Cheat Sheet for this information.
+- Refer to Master Cheat Sheet for this information.
 
 #Desktop Integration:
-• Ensure all computers are running the latest Microsoft Office 365 Business.
-•	Ensure all computers are running the Microsoft OneDrive Client.
-•	Ensure all mobile devices are running Microsoft Outlook as the Mail Client.
-•	Ensure all computers have the Add 'Report Message' Add-in to Outlook - http://blog.ciaops.com/2018/03/improved-security-is-shared.html 
-•	Ensure all computers have the Email Message Header Analyzer for Office 365 - http://blog.ciaops.com/2018/02/email-message-header-analyzer-for.html 
+- Ensure all computers are running the latest Microsoft Office 365 Business.
+- Ensure all computers are running the Microsoft OneDrive Client.
+- Ensure all mobile devices are running Microsoft Outlook as the Mail Client.
+- Ensure all computers have the Add 'Report Message' Add-in to Outlook - http://blog.ciaops.com/2018/03/improved-security-is-shared.html 
+- Ensure all computers have the Email Message Header Analyzer for Office 365 - http://blog.ciaops.com/2018/02/email-message-header-analyzer-for.html 
 
 #Permissions:
 1.	Full Control - Has full control.
