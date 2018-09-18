@@ -9,10 +9,10 @@ Note that the following needs to be setup manually on each of the computers on p
 - Setup Google Chrome Windows 10 SSO Plugin.
 - Setup Microsoft Outlook Profile.
 - Add the following URL’s into the Trusted internet sites
-  - <tenant>.sharepoint.com
-  - <tenant>-my.sharepoint.com
-  - <tenant>-files.sharepoint.com
-  - <tenant>-myfiles.sharepoint.com
+  - tenantnamehere.sharepoint.com
+  - tenantnamehere-my.sharepoint.com
+  - tenantnamehere-files.sharepoint.com
+  - tenantnamehere-myfiles.sharepoint.com
 - Login to SharePoint and save Credentials.
 - Ensure That every User is “Following” the home page of SharePoint, this will help Microsoft Office Save locations to appear.
 
