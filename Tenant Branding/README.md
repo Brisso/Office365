@@ -1,9 +1,9 @@
 ## To customize your branding in Microsoft Office 365
-Search links that point directly to suitable issues to contribute to on GitHub.
 - Sign in to the Azure AD portal using a Global administrator account for the directory.
 - Select Azure Active Directory, and then select Company branding, and then select Configure.
 
 ![stack Overflow](https://github.com/Brisso/Office365/blob/master/Tenant%20Branding/Samples/Settings.png)
+#
 
 ### Image Resolution for Banner Logo
 Height="280" 
